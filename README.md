@@ -26,8 +26,9 @@ Refinamentos Realizados:
 > Estabelecimento de relacionamentos para lidar com múltiplos métodos de pagamento para um único pedido.
 > Melhoria na nomenclatura dos atributos para maior clareza e consistência.
 
-Diagrama de Entidade-Relacionamento
-O diagrama ER representa visualmente as entidades e seus relacionamentos. As principais entidades incluem:
+Diagrama 
+O diagrama representa visualmente as entidades e seus relacionamentos. 
+As principais entidades incluem:
 Cliente
 Cadastro
 Pedido
