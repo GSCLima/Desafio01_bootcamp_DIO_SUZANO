@@ -1,4 +1,4 @@
-Modelo de Entidade-Relacionamento para E-commerce
+Modelo conceitual para E-commerce
 Descrição:
 Este projeto contém o modelo conceitual para um sistema de e-commerce. O modelo foi projetado para abordar funcionalidades-chave, como gestão de clientes, inventário de produtos, pedidos, pagamentos e entregas. Também incorpora refinamentos para evitar redundâncias e garantir clareza nos relacionamentos entre as entidades.
 
